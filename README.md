@@ -1,2 +1,2 @@
 # malleablesoft.github.io
-malleable software LLC
+This is a web site source for malleable software LLC.
